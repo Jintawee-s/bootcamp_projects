@@ -10,7 +10,7 @@ We learn 10 sprint during 4 month program.
 **SQL Database**
 - Create small database and analyst data of Pizza shop
 
-**R Programming*
+**R Programming**
 - Pao ying chub game : Mini game with R
 - Pizza Chatbot : Chatbot program can recieve order from customer with R
 
