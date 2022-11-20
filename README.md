@@ -18,7 +18,7 @@ We learn 10 sprint during 4 month program.
 - NYC Flight 2013 Analysis with R
 
 **Data Visualization**
-- Data Visualization
+- Explore diamonds data with ggplot in R programing
 
 **Statistics**
 - Statistics (edit)
