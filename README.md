@@ -5,7 +5,6 @@ Data science bootcamp with `adToy` by DataRockie
 We learn 10 sprint during 4 month program.
 
 **Spreadsheets**
-- Spreadsheets (edit)
 
 **SQL Database**
 - Create small database and analyst data of Pizza shop
@@ -21,16 +20,11 @@ We learn 10 sprint during 4 month program.
 - Explore diamonds data with ggplot in R programing
 
 **Statistics**
-- Statistics (edit)
 
 **Intro to `Classical` Machine Learning**
-- Intro to `Classical` Machine Learning (edit)
 
 **Intro to Python**
-- Intro to Python (edit)
 
 **Essential Python for Data Analyst**
-- Essential Python for Data Analyst (edit)
 
 **Dashboard**
-- Dashboard (edit)
