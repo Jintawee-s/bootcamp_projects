@@ -20,6 +20,7 @@ We learn 10 sprint during 4 month program.
 - Explore diamonds data with ggplot in R programing
 
 **Statistics**
+- Titanic: logistic regression with R programing
 
 **Intro to `Classical` Machine Learning**
 
