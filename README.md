@@ -2,9 +2,9 @@
 
 Data science bootcamp with `adToy` by DataRockie
 
-We learn 10 sprint during 4 month program.
+We learn 10 sprint during 4 month program. . These are the projects/homework I have done in DataRockie Bootcamp.
 
-**Spreadsheets**
+##**Spreadsheets**
 
 **SQL Database**
 - [pizza_shop_database.r](https://github.com/Jintawee-s/bootcamp_projects/blob/main/SQL%20Database/pizza_shop_database.r) : Create small database and analyst data of Pizza shop : A small database of a restaurant containing 5 dimension tables and 1 fact table, and some SQL queries to analyze data
