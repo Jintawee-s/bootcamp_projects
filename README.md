@@ -7,14 +7,14 @@ We learn 10 sprint during 4 month program. . These are the projects/homework I h
 **Spreadsheets**
 
 **SQL Database**
-- [pizza_shop_database.r](https://github.com/Jintawee-s/bootcamp_projects/blob/main/SQL%20Database/pizza_shop_database.r) : Create small database and analyst data of Pizza shop : A small database of a restaurant containing 5 dimension tables and 1 fact table, and some SQL queries to analyze data
+- [pizza_shop_database.r](https://github.com/Jintawee-s/bootcamp_projects/blob/main/SQL%20Database/pizza_shop_database.r) : A small database of a restaurant containing 5 dimension tables and 1 fact table, and some SQL queries to analyze data
 
 **R Programming**
 - [pao_ying_chub.r](https://github.com/Jintawee-s/bootcamp_projects/blob/main/R%20Programming/pao_ying_chub.r) : An interactive rock-paper-scissors game with a bot
 - [pizza_chatbot.r](https://github.com/Jintawee-s/bootcamp_projects/blob/main/R%20Programming/pizza_chatbot.r) : A rule-based chatbot to order pizza with some dialogue
 
 **Data Transformation**
-- [NYC Flight 2013 Analysis](https://github.com/Jintawee-s/bootcamp_projects/blob/main/NYC%20Flights%202013%20Analysis.r) : Analyzing the `nycflights13` dataset using the `dplyr` package in `R`
+- [NYC Flight 2013 Analysis](https://github.com/Jintawee-s/bootcamp_projects/blob/main/NYC%20Flights%202013%20Analysis.r) : Analyzing the nycflights13 dataset using the `dplyr` package in `R`
 
 **Data Visualization**
 - [Diamonds data](https://github.com/Jintawee-s/bootcamp_projects/blob/main/diamonds%20data-visualization.pdf) - Creating 7 charts to visualize the data queried from the `Chinook` database using the `ggplot2` package in `R`
