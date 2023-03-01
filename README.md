@@ -17,13 +17,13 @@ We learn 10 sprint during 4 month program. These are the projects/homework I hav
 - [NYC Flight 2013 Analysis](https://github.com/Jintawee-s/bootcamp_projects/blob/main/NYC%20Flights%202013%20Analysis.r) : Analyzing the nycflights13 dataset using the `dplyr` package in `R`
 
 ## **Data Visualization**
-- [Diamonds data](https://github.com/Jintawee-s/bootcamp_projects/blob/main/diamonds%20data-visualization.pdf) - Creating 7 charts to visualize the data queried from the `Chinook` database using the `ggplot2` package in `R`
+- [Diamonds data](https://github.com/Jintawee-s/bootcamp_projects/blob/main/diamonds%20data-visualization.pdf) : Creating 7 charts to visualize the data queried from the `Chinook` database using the `ggplot2` package in `R`
 
 ## **Statistics**
-- [Titanic](https://github.com/Jintawee-s/bootcamp_projects/blob/main/Titanic_%20Logistic%20regression.pdf): Using the `titanic_train` dataset to predict the survival of Titanic passengers by logistic regression and the stats package in `R`
+- [Titanic](https://github.com/Jintawee-s/bootcamp_projects/blob/main/Titanic_%20Logistic%20regression.pdf) : Using the `titanic_train` dataset to predict the survival of Titanic passengers by logistic regression and the stats package in `R`
 
 ## **Intro to `Classical` Machine Learning**
-- [Analyzing_Sales_Data](https://github.com/Jintawee-s/bootcamp_projects/blob/main/Python/Course%20Pandas%20Foundation%20-%20Final%20Project.ipynb) - Using the `pandas` library to analyze sales data
+- [Analyzing_Sales_Data](https://github.com/Jintawee-s/bootcamp_projects/blob/main/Python/Course%20Pandas%20Foundation%20-%20Final%20Project.ipynb) : Using the `pandas` library to analyze sales data
 
 ## **Intro to Python**
 - [pao_ying_chub.py](https://github.com/Jintawee-s/bootcamp_projects/blob/main/Python/pao_ying_chub.py) : An interactive rock-paper-scissors game using `Python`
