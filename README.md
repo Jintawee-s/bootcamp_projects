@@ -2,7 +2,7 @@
 
 Data science bootcamp with `adToy` by DataRockie
 
-We learn 10 sprint during 4 month program. . These are the projects/homework I have done in DataRockie Bootcamp.
+We learn 10 sprint during 4 month program. These are the projects/homework I have done in DataRockie Bootcamp.
 
 ## **Spreadsheets**
 
@@ -36,4 +36,4 @@ We learn 10 sprint during 4 month program. . These are the projects/homework I h
 ## **Dashboard**
 - [Airbnb Listing](https://lookerstudio.google.com/reporting/d3b6d1b5-cde4-4aac-94a5-cf3c4f9724e3) : Dashboard showing the Airbnb Listing in New York City data in `Looker Studio`
 
-## **Badge:** [Certified Professional Data Analyst](https://badgr.com/public/assertions/dW-wYq_EThSE8bB6uX2s8w)
+### **Badge:** [Certified Professional Data Analyst](https://badgr.com/public/assertions/dW-wYq_EThSE8bB6uX2s8w)
