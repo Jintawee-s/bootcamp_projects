@@ -1,7 +1,3 @@
-# -*- coding: utf-8 -*-
-
-# -- Sheet --
-
 # # NYC Flight 2013 Analysis
 
 
