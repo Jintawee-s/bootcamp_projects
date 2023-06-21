@@ -5,6 +5,9 @@ Data science bootcamp with `adToy` by DataRockie
 I successfully completed the DataRockie Bootcamp, a four-month immersive program in data science conducted in collaboration with adToy. Over the course of the program, I engaged in 10 sprints, actively participating in a series of projects and homework assignments. These projects and assignments were specifically designed to enhance my skills and understanding in the field of data science, forming an integral part of the comprehensive DataRockie Bootcamp experience.
 
 ## **Spreadsheets**
+- [Dynamic Query] : Queries that return results dynamically
+- [Converting Date] : Converting TH date to EN date
+- [ID Card Parser] : Using regular expression to extract and parse ID card information
 
 ## **SQL Database**
 - [pizza_shop_database.r](https://github.com/Jintawee-s/bootcamp_projects/blob/main/SQL%20Database/pizza_shop_database.r) : A small database of a restaurant containing 5 dimension tables and 1 fact table, and some SQL queries to analyze data
