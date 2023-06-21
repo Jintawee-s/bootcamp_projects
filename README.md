@@ -2,7 +2,7 @@
 
 Data science bootcamp with `adToy` by DataRockie
 
-We learn 10 sprint during 4 month program. These are the projects/homework I have done in DataRockie Bootcamp.
+I successfully completed the DataRockie Bootcamp, a four-month immersive program in data science conducted in collaboration with adToy. Over the course of the program, I engaged in 10 sprints, actively participating in a series of projects and homework assignments. These projects and assignments were specifically designed to enhance my skills and understanding in the field of data science, forming an integral part of the comprehensive DataRockie Bootcamp experience.
 
 ## **Spreadsheets**
 
